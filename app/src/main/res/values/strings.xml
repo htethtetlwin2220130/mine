@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">練習アプリ</string>
+    <string name="sub_title">sub画面タイトル</string>
+    <string name="hint">名前を入力してください</string>
+    <string name="drink">ドリンク</string>
+    <string name="food">フード</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="name">namae</string>
+    <string name="confirm">確認</string>
+    <string name="name2" />
+    <string name="labelname">名前</string>
+    <string name="clearBottom">クリア</string>
+    <string name="send">送信</string>
+    <string name="Textview">プロフィール</string>
+    <string name="EditText">名前を入力してください</string>
+    <string name="EditText2">パスワードを入力してください</string>
+    <string name="radioButtom">クリア</string>
+    <string name="radioButtom2">クリア</string>
+    <string name="textView3">年代</string>
+    <string name="textView4">性別</string>
+    <string name="checkBox3">30代</string>
+    <string name="CheckBox2">20代</string>
+    <string name="CheckBox">10年代</string>
+    <string name="button">クリア</string>
+    <string name="button2" />
+    <string name="button3">クリア</string>
+    <string name="radiobutton4">男</string>
+    <string name="radiobutton5">女</string>
+    <string name="button4">確認</string>
+    <string name="データ追加" />
+    <string name="input">データを入力してください</string>
+    <string name="input2">データを入力してください</string>
+    <string name="input3">データを入力してください</string>
+    <string name="cancel">キャンセル</string>
+    <string name="thoughsText">感想を入力してください</string>
+    <string name="save">保存</string>
+    <string name="reset">リセット</string>
+    <string name="SearchText">データ追加してください</string>
+    <string name="search">検査</string>
+    <string name="searchtext">データを入力してください</string>
+    <string name="search1">検査</string>
+    <string name="camera">カメラ</string>
+    <string-array name="curryList">
+        <item>ドライカレー</item>
+        <item>かつカレー</item>
+    </string-array>
+    <string-array name="dataList">
+        <item> </item>
+    </string-array>
+</resources>
